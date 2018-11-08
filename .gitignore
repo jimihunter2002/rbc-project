@@ -1,0 +1,8 @@
+**/*.log
+*.html
+**/.idea/
+**/*.xml
+robot
+**/*.csv
+*.pyc
+__pycache__
