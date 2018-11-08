@@ -49,10 +49,7 @@ Note: For the UI tests, it is advisable to run the pet_us03.robot test cases fir
 has a little demanding scenario.
 
 To run the pet_us02.robot test cases, a csv file containing petname and status should be added to the Data folder
-sample data will look like the one below
-
-elephant, Available
-whale, Sold out
+sample.csv is already provided for guidance 
 
 In addition, there is also a performance test of the application to see how it behaves when 1000 concurrent users
 are using the app store e.g creating a pet.
